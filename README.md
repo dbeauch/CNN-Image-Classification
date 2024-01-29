@@ -5,7 +5,7 @@ This repository contains a Jupyter notebook developed for a machine learning cla
 ## Project Overview
 The project aims to build an image recognition system that classifies different buildings and landmarks on the UVA Grounds. It showcases the implementation of custom Convolutional Neural Network (CNN) architectures and the application of transfer learning using pre-trained models.
 
-##Steps and Methodology
+## Steps and Methodology
 Dataset Processing: Utilization of a subset of a large dataset, resized and compressed for the project. The data consists of images representing various classes of UVA landmarks.
 
 Custom CNN Architecture: Design and implementation of a custom CNN model. Key considerations include the number of layers, node count per layer, choice of activation functions, and total parameters.
